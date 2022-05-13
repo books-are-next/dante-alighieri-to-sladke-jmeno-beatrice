@@ -1,36 +1,104 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: To sladké jméno Beatrice
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Dante Alighieri
+  publisher: Městská knihovna v Praze
+  modified: '2021-01-25T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - to_sladke_jmeno_beatrice_001.html
+  - to_sladke_jmeno_beatrice_002.html
+  - to_sladke_jmeno_beatrice_003.html
+  - to_sladke_jmeno_beatrice_004.html
+  - to_sladke_jmeno_beatrice_005.html
+  - to_sladke_jmeno_beatrice_006.html
+  - to_sladke_jmeno_beatrice_007.html
+  - to_sladke_jmeno_beatrice_008.html
+  - to_sladke_jmeno_beatrice_009.html
+  - to_sladke_jmeno_beatrice_010.html
+  - to_sladke_jmeno_beatrice_011.html
+  - to_sladke_jmeno_beatrice_012.html
+  - to_sladke_jmeno_beatrice_013.html
+  - to_sladke_jmeno_beatrice_014.html
+  - to_sladke_jmeno_beatrice_015.html
+  - to_sladke_jmeno_beatrice_016.html
+  - to_sladke_jmeno_beatrice_017.html
+  - to_sladke_jmeno_beatrice_018.html
+  - to_sladke_jmeno_beatrice_019.html
+  - to_sladke_jmeno_beatrice_020.html
+  - to_sladke_jmeno_beatrice_021.html
+  - to_sladke_jmeno_beatrice_022.html
+  - to_sladke_jmeno_beatrice_023.html
+  - to_sladke_jmeno_beatrice_024.html
+  - to_sladke_jmeno_beatrice_025.html
+  - to_sladke_jmeno_beatrice_026.html
+  - to_sladke_jmeno_beatrice_027.html
+  - to_sladke_jmeno_beatrice_028.html
+  - to_sladke_jmeno_beatrice_029.html
+  - to_sladke_jmeno_beatrice_030.html
+  - to_sladke_jmeno_beatrice_031.html
+  - to_sladke_jmeno_beatrice_032.html
+  - to_sladke_jmeno_beatrice_033.html
+  - to_sladke_jmeno_beatrice_034.html
+  - to_sladke_jmeno_beatrice_035.html
+  - to_sladke_jmeno_beatrice_036.html
+  - to_sladke_jmeno_beatrice_037.html
+  - to_sladke_jmeno_beatrice_038.html
+  - to_sladke_jmeno_beatrice_039.html
+  - to_sladke_jmeno_beatrice_040.html
+  - to_sladke_jmeno_beatrice_041.html
+  - to_sladke_jmeno_beatrice_042.html
+  - to_sladke_jmeno_beatrice_043.html
+  - to_sladke_jmeno_beatrice_044.html
+  - to_sladke_jmeno_beatrice_045.html
+  - to_sladke_jmeno_beatrice_046.html
+  - to_sladke_jmeno_beatrice_047.html
+  - to_sladke_jmeno_beatrice_048.html
+  - to_sladke_jmeno_beatrice_049.html
+  - to_sladke_jmeno_beatrice_050.html
+  - to_sladke_jmeno_beatrice_051.html
+  - to_sladke_jmeno_beatrice_052.html
+  - to_sladke_jmeno_beatrice_053.html
+  - to_sladke_jmeno_beatrice_054.html
+  - to_sladke_jmeno_beatrice_055.html
+  - to_sladke_jmeno_beatrice_056.html
+  - to_sladke_jmeno_beatrice_057.html
+  - to_sladke_jmeno_beatrice_058.html
+  - to_sladke_jmeno_beatrice_059.html
+  - to_sladke_jmeno_beatrice_060.html
+  - to_sladke_jmeno_beatrice_061.html
+  - to_sladke_jmeno_beatrice_062.html
+  - to_sladke_jmeno_beatrice_063.html
+  - to_sladke_jmeno_beatrice_064.html
+  - to_sladke_jmeno_beatrice_065.html
+  - to_sladke_jmeno_beatrice_066.html
+  - to_sladke_jmeno_beatrice_067.html
+  - to_sladke_jmeno_beatrice_068.html
+  - to_sladke_jmeno_beatrice_069.html
+  - to_sladke_jmeno_beatrice_070.html
+  - to_sladke_jmeno_beatrice_071.html
+  - to_sladke_jmeno_beatrice_072.html
+  - to_sladke_jmeno_beatrice_073.html
+  - to_sladke_jmeno_beatrice_074.html
+  - to_sladke_jmeno_beatrice_075.html
+  - to_sladke_jmeno_beatrice_076.html
+  - to_sladke_jmeno_beatrice_077.html
+  - to_sladke_jmeno_beatrice_078.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
