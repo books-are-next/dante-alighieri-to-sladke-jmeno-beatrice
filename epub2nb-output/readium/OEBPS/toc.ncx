@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>To sladké jméno Beatrice</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I. PRVNÍ BÁSNĚ</text>
+      </navLabel>
+      <content src="Text/to_sladke_jmeno_beatrice_005.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Kdyby tak, Guido, někdo znenadání…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_006.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Ach, Fialko, jež ses mi objevila…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_007.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Štěkání psů a halekání lovců…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_008.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>I kdyby za trest oslepit se chtěly…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_009.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Spatřil jsem jednou vínek…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_010.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Najde se někdy někdo, kdo se může…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_011.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Do vašich rukou, šlechetná má paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_012.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Protože jsi tak mladičká a krásná…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_013.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Kéž vám bůh Lásky chtěl…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_014.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Ten bůh, jejž máte v očích, moje paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_015.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Sveřepá paměť, která pořád zírá…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_016.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Ach, pojď si, Lásko, popovídat chvíli…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_017.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Čím víc vás Láska pruty popohání…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_018.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Viděl jsem tuhle hlouček krásných paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_019.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Z očí mé paní sálá tolik jasu…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_020.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Bolestná láska, jež mě celý čas…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_021.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Zavítal ke mně jednoho dne Žal…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_022.xhtml#_idParaDest-18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>II. BÁSNĚ Z NOVÉHO ŽIVOTA</text>
+      </navLabel>
+      <content src="Text/to_sladke_jmeno_beatrice_023.xhtml#_idParaDest-19"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>V těch místech knihy mé paměti…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Ve jménu Lásky, jejich pána, zdravím…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_025.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Vy , co se cestou lásky ubíráte…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_026.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Slyšte, vy všichni, kteří milujete…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_027.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Ty smrti zlá, jež neznáš slitování…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_028.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Když jsem jel tuhle cestou vprostřed polí…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_029.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Má balato, jdi Lásku vyhledat…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Mé myšlenky jsou teď tak rozpolceny…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Smějete se mé tváři s ostatními…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Když vás chci uvidět, můj vzácný skvoste…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Kolikrát jenom v duchu přemítám…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Mé paní, vy, jež Lásce rozumíte…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_036.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Láska a srdce v prsou šlechetného…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_037.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Lásku má ve svých očích paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_038.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Vy , které jdete odevzdaně kolem…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_039.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Ty že jsi ten, co mluvil tolikrát…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_040.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Když ta tak mladičká a krásná paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_041.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Cítil jsem, jak se náhle budí ve mně…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_042.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Tak šlechetná, tak ctnostná vždy má paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_043.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Kdo vidí jít mou paní vprostřed jiných…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_044.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Takový čas mne Láska svírala…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_045.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Mé oči hořem srdce zkormoucené…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_046.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Pojďte a poslyšte ty moje vzdechy…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_047.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Kdykoli, žel, mi něco připomene…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_048.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>V myšlenkách se mi znovu objevila…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_049.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Mé oči viděly, co slitování…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_050.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Dosud jsem nikdy neviděl tvář paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_051.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>„Ty proudy slz, v nichž jste se utápěly…“</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_052.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Chodívá ke mně návštěvou co chvíle…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_053.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Běda, z těch dum, jež srdce v sobě skrývá…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_055.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Poutníci, kteří jdete zamyšlení…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_056.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Až za nejvyšší sféru všehomíra…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_057.xhtml#_idParaDest-50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>III. DALŠÍ BÁSNĚ</text>
+      </navLabel>
+      <content src="Text/to_sladke_jmeno_beatrice_059.xhtml#_idParaDest-51"/>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Kdo slyší ženu Bicci Foreseho…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_060.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Tuhle jsem v noci dostal hrozný kašel…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_061.xhtml#_idParaDest-53"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Gordický uzel zadrhnou ti spíš…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_062.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Než začneš říkat, co je ten či ten…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_063.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Bicci, ty synu ani nevím koho…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_064.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>To já zas vím, ze ty jsi z Alighierů…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_065.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Chci zrovna tak být drsný ve svém psaní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_066.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Už zase nastal, žel, čas dlouhých stínů…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_067.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Dospěl jsem k tomu bodu zodiaku…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_068.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Lásko, vždyť vidíš, že ta krásná paní…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_069.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Poněvadž nemám s kým si pohovořit…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_070.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Protože jsem byl s Láskou bez ustání…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_071.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Myslel jsem si, že jsem už zanechal…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_072.xhtml#_idParaDest-64"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Slyším, jak duše v hloubi srdce vzlyká…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_073.xhtml#_idParaDest-65"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Jestliže klopím oči, když jsem s vámi…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_074.xhtml#_idParaDest-66"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Mám-li si tedy, Lásko, naříkat…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_075.xhtml#_idParaDest-67"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Tři paní přišly navštívit mé srdce…</text>
+        </navLabel>
+        <content src="Text/to_sladke_jmeno_beatrice_076.xhtml#_idParaDest-68"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Doslov</text>
+      </navLabel>
+      <content src="Text/to_sladke_jmeno_beatrice_077.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

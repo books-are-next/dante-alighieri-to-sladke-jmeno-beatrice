@@ -1,0 +1,644 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "To sladké jméno Beatrice",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Dante Alighieri",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-01-25T00:00:00.000Z",
+    "published": "2021-01-25T09:08:47.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_078.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_to_sladke_jmeno_beatrice.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I. PRVNÍ BÁSNĚ",
+      "children": [
+        {
+          "title": "Kdyby tak, Guido, někdo znenadání…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_006.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Ach, Fialko, jež ses mi objevila…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Štěkání psů a halekání lovců…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "I kdyby za trest oslepit se chtěly…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Spatřil jsem jednou vínek…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Najde se někdy někdo, kdo se může…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_011.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Do vašich rukou, šlechetná má paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Protože jsi tak mladičká a krásná…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_013.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Kéž vám bůh Lásky chtěl…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_014.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Ten bůh, jejž máte v očích, moje paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Sveřepá paměť, která pořád zírá…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_016.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Ach, pojď si, Lásko, popovídat chvíli…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_017.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Čím víc vás Láska pruty popohání…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_018.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Viděl jsem tuhle hlouček krásných paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_019.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Z očí mé paní sálá tolik jasu…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_020.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Bolestná láska, jež mě celý čas…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_021.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Zavítal ke mně jednoho dne Žal…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_022.xhtml#_idParaDest-18"
+        }
+      ],
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "II. BÁSNĚ Z NOVÉHO ŽIVOTA",
+      "children": [
+        {
+          "title": "V těch místech knihy mé paměti…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_024.xhtml"
+        },
+        {
+          "title": "Ve jménu Lásky, jejich pána, zdravím…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Vy , co se cestou lásky ubíráte…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_026.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Slyšte, vy všichni, kteří milujete…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_027.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Ty smrti zlá, jež neznáš slitování…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_028.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Když jsem jel tuhle cestou vprostřed polí…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Má balato, jdi Lásku vyhledat…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Mé myšlenky jsou teď tak rozpolceny…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Smějete se mé tváři s ostatními…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Když vás chci uvidět, můj vzácný skvoste…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Kolikrát jenom v duchu přemítám…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Mé paní, vy, jež Lásce rozumíte…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_036.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Láska a srdce v prsou šlechetného…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_037.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Lásku má ve svých očích paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_038.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Vy , které jdete odevzdaně kolem…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_039.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Ty že jsi ten, co mluvil tolikrát…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_040.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Když ta tak mladičká a krásná paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_041.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Cítil jsem, jak se náhle budí ve mně…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_042.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Tak šlechetná, tak ctnostná vždy má paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_043.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Kdo vidí jít mou paní vprostřed jiných…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_044.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Takový čas mne Láska svírala…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_045.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Mé oči hořem srdce zkormoucené…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_046.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Pojďte a poslyšte ty moje vzdechy…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_047.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Kdykoli, žel, mi něco připomene…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_048.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "V myšlenkách se mi znovu objevila…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_049.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Mé oči viděly, co slitování…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_050.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Dosud jsem nikdy neviděl tvář paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_051.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "„Ty proudy slz, v nichž jste se utápěly…“",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_052.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Chodívá ke mně návštěvou co chvíle…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_053.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Běda, z těch dum, jež srdce v sobě skrývá…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_055.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Poutníci, kteří jdete zamyšlení…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_056.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Až za nejvyšší sféru všehomíra…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_057.xhtml#_idParaDest-50"
+        }
+      ],
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_023.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "III. DALŠÍ BÁSNĚ",
+      "children": [
+        {
+          "title": "Kdo slyší ženu Bicci Foreseho…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_060.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Tuhle jsem v noci dostal hrozný kašel…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_061.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "Gordický uzel zadrhnou ti spíš…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_062.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Než začneš říkat, co je ten či ten…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_063.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Bicci, ty synu ani nevím koho…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_064.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "To já zas vím, ze ty jsi z Alighierů…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_065.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Chci zrovna tak být drsný ve svém psaní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_066.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Už zase nastal, žel, čas dlouhých stínů…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_067.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Dospěl jsem k tomu bodu zodiaku…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_068.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "Lásko, vždyť vidíš, že ta krásná paní…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_069.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Poněvadž nemám s kým si pohovořit…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_070.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Protože jsem byl s Láskou bez ustání…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_071.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "Myslel jsem si, že jsem už zanechal…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_072.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "Slyším, jak duše v hloubi srdce vzlyká…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_073.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "Jestliže klopím oči, když jsem s vámi…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_074.xhtml#_idParaDest-66"
+        },
+        {
+          "title": "Mám-li si tedy, Lásko, naříkat…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_075.xhtml#_idParaDest-67"
+        },
+        {
+          "title": "Tři paní přišly navštívit mé srdce…",
+          "href": "OEBPS/Text/to_sladke_jmeno_beatrice_076.xhtml#_idParaDest-68"
+        }
+      ],
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_059.xhtml#_idParaDest-51"
+    },
+    {
+      "title": "Doslov",
+      "href": "OEBPS/Text/to_sladke_jmeno_beatrice_077.xhtml"
+    }
+  ]
+}
