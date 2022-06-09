@@ -5,6 +5,8 @@ contentType: prose
 
 Ale ta slova, byť sebeupřímnější, se mu zdála málo; i připojil k nim ještě dvě sloky kancóny
 
+  
+
 Kdykoli, žel, mi něco připomene,  
 že nemám nikdy již  
 uvidět paní, pro niž hynu žalem,  
@@ -19,16 +21,16 @@ své útěše a svému dobrodiní,
 a říkám jí: „Už pojď!“ tak žádostivě,  
 že závidím, když někdo zemře dříve.
 
-> Mé vzdechy slévají se v jednom hlase,  
-> jenž budí útrpnost,  
-> jak volá Smrt a chce ji bez přestání:  
-> jedině po ní prahnu zas a zase  
-> od chvíle, co mou paní  
-> odvedl navždycky ten krutý host;  
-> vždyť její půvab, její spanilost,  
-> jakmile od nás k nebi odletěly,  
-> se proměnily v nadpozemskou krásu  
-> jež v nebi plná jasu  
-> a záře Lásky zdraví archanděly  
-> a při vší jejich moudrosti a ctnosti  
-> je plní úžasem svou šlechetností.
+_Mé vzdechy slévají se v jednom hlase,  
+jenž budí útrpnost,  
+jak volá Smrt a chce ji bez přestání:  
+jedině po ní prahnu zas a zase  
+od chvíle, co mou paní  
+odvedl navždycky ten krutý host;  
+vždyť její půvab, její spanilost,  
+jakmile od nás k nebi odletěly,  
+se proměnily v nadpozemskou krásu  
+jež v nebi plná jasu  
+a záře Lásky zdraví archanděly  
+a při vší jejich moudrosti a ctnosti  
+je plní úžasem svou šlechetností._

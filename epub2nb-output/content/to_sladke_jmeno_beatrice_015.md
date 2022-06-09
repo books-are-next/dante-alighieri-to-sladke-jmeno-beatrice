@@ -5,6 +5,8 @@ contentType: prose
 
 Potom už nezbývalo než hledat útěchu v očích milované paní
 
+  
+
 Ten bůh, jejž máte v očích, moje paní,  
 a jenž tu zmůže každou moc svou mocí,  
 říká mi dnem i nocí,  

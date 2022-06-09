@@ -5,27 +5,29 @@ contentType: prose
 
 V den prvního výročí její smrti kreslil ve vzpomínkách na ni anděla a napsal o tom sonet, který měl dva začátky; ten první zněl:
 
+  
+
 V myšlenkách se mi znovu objevila  
 má paní, kterou povolal už Pán  
 za to, jak byla ctná a ušlechtilá,  
 do nebes, kde má Maria svůj stan.
 
-A druhý začátek zní:
+_A druhý začátek zní:_
 
-> V myšlenkách se mi znovu objevila  
-> má paní, pro niž Láskou štkám,  
-> právě když vás svou mocí přinutila  
-> se podívat, čím se to zabývám.
+_V myšlenkách se mi znovu objevila  
+má paní, pro niž Láskou štkám,  
+právě když vás svou mocí přinutila  
+se podívat, čím se to zabývám._
 
-> A když ji Láska ucítila ve mně,  
-> procitla v srdci dávno zdrceném  
-> a vyhnala hned všechny vzdechy ze mne,  
-> takže se s pláčem rozletěly ven.
+_A když ji Láska ucítila ve mně,  
+procitla v srdci dávno zdrceném  
+a vyhnala hned všechny vzdechy ze mne,  
+takže se s pláčem rozletěly ven._
 
-> S pláčem a nářkem draly se z mé hrudi  
-> a zněly hlasem, jenž tak často budí  
-> bolestné slzy v smutných očích mých;
+_S pláčem a nářkem draly se z mé hrudi  
+a zněly hlasem, jenž tak často budí  
+bolestné slzy v smutných očích mých;_
 
-> Nejtíž se ale prodíraly steny,  
-> jež naříkaly: „Duchu urozený,  
-> už je to rok, co meškáš v nebesích.“
+_Nejtíž se ale prodíraly steny,  
+jež naříkaly: „Duchu urozený,  
+už je to rok, co meškáš v nebesích.“_

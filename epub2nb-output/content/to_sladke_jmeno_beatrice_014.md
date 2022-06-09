@@ -5,6 +5,8 @@ contentType: prose
 
 Nejkrutější však byly vždy chvíle odjezdu a loučení
 
+  
+
 Kéž vám bůh Lásky chtěl  
 poručit moje srdce, jež vám dal,  
 a Soucit neváhal  

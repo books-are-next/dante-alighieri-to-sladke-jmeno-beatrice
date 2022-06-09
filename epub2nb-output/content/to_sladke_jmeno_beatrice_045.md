@@ -5,6 +5,8 @@ contentType: prose
 
 Když však chtěl napsat k její oslavě velkou kancónu, přervala ji po první sloce smrt
 
+  
+
 Takový čas mne Láska svírala  
 a přivykala žezlu ve své ruce,  
 že jako dřív mě jenom týrala,  
