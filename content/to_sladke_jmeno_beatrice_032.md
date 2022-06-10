@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Když se pak znenadání setkal se svou nejšlechetnější, vzbudil jeho zmatek smích nejen u jiných, ale i u ní
+<section>
 
-  
+_Když se pak znenadání setkal se svou nejšlechetnější, vzbudil jeho zmatek smích nejen u jiných, ale i u ní_
+
+</section>
+
+<section>
 
 Smějete se mé tváři s ostatními  
 a netušíte, z čeho pramení,  
@@ -17,10 +21,20 @@ přestalo zkoušet, jak to dělá vždy,
 protože Láska, jen mě shlédne s vámi,  
 cítí hned tolik smělé jistoty,_
 
+</section>
+
+<section>
+
 _že přepadá mé smysly zděšené,  
 a když je vybije či vyžene,  
 dívá se sama na vás, moje paní;_
 
+</section>
+
+<section>
+
 _a tak je ze mne někdo jiný, žel,  
 ale ne tolik, abych neslyšel  
 ty vyhnance a jejich naříkání._
+
+</section>

@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Příteli Cinovi měl básník za zlé, jak snadno vzplane, ale ani on sám se nedovedl ubránit, když se mu jednoho zjevila jistá paní jako padající blesk
+<section>
 
-  
+_Příteli Cinovi měl básník za zlé, jak snadno vzplane, ale ani on sám se nedovedl ubránit, když se mu jednoho zjevila jistá paní jako padající blesk_
+
+</section>
+
+<section>
 
 Mám-li si tedy, Lásko, naříkat,  
 aby mě slyšel svět  
@@ -54,6 +58,10 @@ A jak se dívám, kam se vrtnout spíš
 a najít pomoc, zahlédne mne v stínu  
 zrak, jenž mne vraždí, i když nemám vinu._
 
+</section>
+
+<section>
+
 _Co se pak se mnou děje celý čas,  
 víš, Lásko, ty, ne já —  
 ty přihlížíš, jak klesám utýraný;  
@@ -69,6 +77,10 @@ co zač byl blesk, jímž jsem byl zasažen;
 třebas byl vyslán sladkým úsměvem,  
 v tváři mi ještě dlouho chmury stojí,  
 protože duch dál tone v nepokoji._
+
+</section>
+
+<section>
 
 _A tak mne, Lásko, zničilo tvé jho  
 v klínu hor nad řekou,  
@@ -86,6 +98,10 @@ z pýchy si ukula tak pevný štít,
 že každá střela se jen zláme na ní;  
 to srdce ve zbroji nic neporaní!_
 
+</section>
+
+<section>
+
 _Jdi, kancóno má, psaná pod horami;  
 spatříš-li Florencii, moji zem,  
 z níž jsem byl hnán až sem,  
@@ -95,3 +111,5 @@ nebude věru bojovat můj pán;
 je k místu, odkud jdu, tak přikován,  
 že nemá volnost, aby se k vám vrátil,  
 i kdyby snad už vaši krutost zvrátil.“_
+
+</section>

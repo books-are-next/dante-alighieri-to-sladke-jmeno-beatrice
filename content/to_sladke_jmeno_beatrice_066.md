@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-A studium jej nedovedlo zaštítit ani před útoky Lásky; ale kdo byla ta paní nelítostná jako kámen, o tom se neví nic určitého
+<section>
 
-  
+_A studium jej nedovedlo zaštítit ani před útoky Lásky; ale kdo byla ta paní nelítostná jako kámen, o tom se neví nic určitého_
+
+</section>
+
+<section>
 
 Chci zrovna tak být drsný ve svém psaní,  
 jako je ve všem drsný vždy ten kámen,  
@@ -35,6 +39,10 @@ jak to, že ty tak směle
 můžeš můj život rvát kus po kuse,  
 a já se bojím říct, kdo tomu chce?_
 
+</section>
+
+<section>
+
 _A vzpomenu-li na ni před očima  
 ostatních lidí, pak mi srdcem zmítá  
 spíš strach, zda neprosvítá  
@@ -48,6 +56,10 @@ nad sebou meč, jímž kdysi zahubila
 Didónu ta zlá síla,  
 k níž na kolenou volám o soucit:  
 Láska však zřejmě nemá s nikým cit._
+
+</section>
+
+<section>
 
 _Zvedá vždy znovu paži s tím, že zničí  
 můj život plný slabosti a strachu,  
@@ -63,6 +75,10 @@ cítím až u srdce, a napadá mě:
 jen jednou ještě, budu po smrti  
 dřív, nežli mě ta rána rozdrtí.“_
 
+</section>
+
+<section>
+
 _Kéž rozťala tak na dvě polovice  
 i srdce té, jež moje srdce čtvrtí;  
 pak bych se nebál smrti,  
@@ -76,6 +92,10 @@ a s radostí jí do těch plavých vlasů,
 pro jejichž zlatou krásu  
 a prstence tu přijdu o život,  
 zabořil ruku, tentokrát snad vhod._
+
+</section>
+
+<section>
 
 _A až bych popadl tu krásnou kštici,  
 ty vrkoče, jež jsou můj bič a metla,  
@@ -91,8 +111,14 @@ a nepohnutě svýma
 za trest, že vždycky prchá, co má sil;  
 a potom bych jí s láskou odpustil._
 
+</section>
+
+<section>
+
 _Má kancóno, jdi rovnou za paní,  
 jež mě tak ranila a jež mi brání  
 v mém nejvroucnějším přání,  
 a probodni jí srdce bolestí:  
 vždyť pomstít se je pro každého ctí!_
+
+</section>

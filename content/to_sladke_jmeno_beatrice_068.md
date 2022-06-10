@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Přes všechnu umnost hovořil v nich příliš živý cit: i ten možná patřil k tomu pobloudění, jež mu bude v Očistci vytýkat oslavená Beatrice
+<section>
 
-  
+_Přes všechnu umnost hovořil v nich příliš živý cit: i ten možná patřil k tomu pobloudění, jež mu bude v Očistci vytýkat oslavená Beatrice_
+
+</section>
+
+<section>
 
 Dospěl jsem k tomu bodu zodiaku,  
 kdy z obzoru se na nebeské báni  
@@ -35,6 +39,10 @@ ty svoje sítě před větrem, jenž duje,
 Láska dál trvá pro krásu té paní,  
 jež mi tak krutě vládne jako paní._
 
+</section>
+
+<section>
+
 _Už jsou pryč ptáci, kteří odlétají  
 za teplem z končin, na něž věčně shlíží  
 mrazivý Vůz a sedm jeho hvězd;  
@@ -48,6 +56,10 @@ ten můj však neutiší,
 mé sladké myšlenky, ty neodnímá,  
 ty nepřináší žádná doba roku,  
 nýbrž má paní v rozpuku svých roků._
+
+</section>
+
+<section>
 
 _Už prošla lhůta, kterou mělo listí,  
 jež vyrazilo na znamení Skopce  
@@ -63,6 +75,10 @@ nechává v srdci trn, jenž tolik bolí,
 a jsem si jist, že tam už bude věčně,  
 co budu žít, i kdybych měl žít věčně._
 
+</section>
+
+<section>
+
 _Už opět prýští ze všech zřídel vody  
 plné par, jež jsou v zemi naměstnané  
 a teď se z jejích útrob valí k nám;  
@@ -77,6 +93,10 @@ jsem ve své válce neuhnul krok zpátky
 a neuhnu; vždyť jsou-li muka slastí,  
 pak musí Smrt být nade všecky slasti._
 
+</section>
+
+<section>
+
 _Má kancóno, co si však počnu pak,  
 až přijde zase čas, kdy raší země  
 a Láska prší ze všech kruhů nebe,  
@@ -84,3 +104,5 @@ když teď, kdy všechno zebe,
 se Láska drží jen a jenom ve mně?  
 Nic víc než socha, nežli mrtvý mramor,  
 má-li má milá místo srdce mramor!_
+
+</section>

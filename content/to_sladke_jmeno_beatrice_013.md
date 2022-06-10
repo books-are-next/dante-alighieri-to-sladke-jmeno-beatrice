@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Neboť krásu tváře provázela až příliš často pýcha a krutost srdce
+<section>
 
-  
+_Neboť krásu tváře provázela až příliš často pýcha a krutost srdce_
+
+</section>
+
+<section>
 
 Protože jsi tak mladičká a krásná  
 a víš, co lásky v myslích vzbuzuješ,  
@@ -18,3 +22,5 @@ zda Láska dokáže i zabíjet.
 Ačkoli víš, jak jsem se v tobě zhléd,  
 mé bolesti si ani nevšimneš.  
 Kéž bys to jednou zakusila též!_
+
+</section>

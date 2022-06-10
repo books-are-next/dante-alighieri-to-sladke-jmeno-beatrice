@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-A Beatrici nepatří ani tyto sloky; obracejí se k jedné z těch, jež měly jako štít zakrývat jeho pravé city
+<section>
 
-  
+_A Beatrici nepatří ani tyto sloky; obracejí se k jedné z těch, jež měly jako štít zakrývat jeho pravé city_
+
+</section>
+
+<section>
 
 Ach, Fialko, jež ses mi objevila  
 jak obraz lásky náhle před očima,  
@@ -22,3 +26,5 @@ Nechtěj však, abych spoléhal jen na ni,
 spíš pohleď na touhu, v níž hořím zcela:  
 vždyť tolikrát už ta, co otálela,  
 pak litovala muk, jež způsobila._
+
+</section>

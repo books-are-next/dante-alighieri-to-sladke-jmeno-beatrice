@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-A tak se za všemi jeho verši nadále tají ta, jejíž sladké jméno chutnalo tak hořce
+<section>
 
-  
+_A tak se za všemi jeho verši nadále tají ta, jejíž sladké jméno chutnalo tak hořce_
+
+</section>
+
+<section>
 
 Bolestná láska, jež mě celý čas  
 vede vstříc smrti k potěše té paní,  
@@ -37,6 +41,10 @@ a bude v dumách spolu s ní vždy znovu
 vzpomínat na blaho té sladké tváře,  
 vedle níž nemá ani ráj dost záře._
 
+</section>
+
+<section>
+
 _Když pomyslí, jak Láskou zkoušela,  
 nemá už duše, co by víc si přála,  
 a nedbá běd, jež ještě čekají;  
@@ -52,6 +60,10 @@ pominou strasti, jež se na ni věsí:
 co člověk zde na tomto světě ztratí,  
 to vše mu Láska na onom zas vrátí._
 
+</section>
+
+<section>
+
 _Smrti, jež děláš vše, co chce ta paní,  
 měj útrpnost, a než mi zlámeš vaz,  
 jdi k ní a zeptej se jí,  
@@ -60,3 +72,5 @@ to světlo očí, které mě jen souží;
 jestli se do něho teď jiný hrouží,  
 řekni mi to, ať vím, co je a není,  
 a skoncuji to svoje utrpení._
+
+</section>
