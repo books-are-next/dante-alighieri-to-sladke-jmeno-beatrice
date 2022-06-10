@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Zemřela jeho nejšlechetnější paní; a tak místo radosti a slávy psal v nesmírném hoři
+<section>
 
-  
+_Zemřela jeho nejšlechetnější paní; a tak místo radosti a slávy psal v nesmírném hoři_
+
+</section>
+
+<section>
 
 Mé oči hořem srdce zkormoucené  
 strádají pláčem, který se z nich line,  
@@ -51,6 +55,10 @@ a zmírat bez útěchy tisíckrát,
 kdo jednou v duchu spatří, jaká byla  
 a jak nás tady navždy opustila._
 
+</section>
+
+<section>
+
 _Kdykoli jen si připomenu maní  
 v duchu Smrt, jež mi rozpoltila srdce,  
 plní mě vzdechy krutou úzkostí;  
@@ -65,6 +73,10 @@ a plný studu prchám před pohledy.
 A v samotě pak v slzách naříkám  
 a volám Beatrici: „Zemřela jsi?“  
 a to mou bolest aspoň trochu hasí._
+
+</section>
+
+<section>
 
 _Kamkoli prchnu, tam mi srdce puká  
 bolestným pláčem, úzkostnými steny  
@@ -81,9 +93,15 @@ takových běd v něm je,
 Ale má paní vidí, jak se soužím,  
 a doufám že mě odmění, jak toužím._
 
+</section>
+
+<section>
+
 _A teď už jdi, má žalná kancóno,  
 vyhledej znovu dívčiny a paní,  
 jimž dosud bez ustání  
 nosily tvoje sestry potěšení,  
 jdi za nimi, ty dcero utrpení,  
 a zoufalá buď s nimi do skonání._
+
+</section>

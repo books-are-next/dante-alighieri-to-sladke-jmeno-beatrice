@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Zanedlouho nato onemocněl sám a opatrován svou sestrou měl vidě­ní, jež se mělo co nejdřív naplnit
+<section>
 
-  
+_Zanedlouho nato onemocněl sám a opatrován svou sestrou měl vidě­ní, jež se mělo co nejdřív naplnit_
+
+</section>
+
+<section>
 
 Když ta tak mladičká a krásná paní  
 seděla soucitná v mém pokojíku,  
@@ -51,6 +55,10 @@ jež nemohla už pravdu rozpoznat,
 jsem spatřil ženy s děsivými zraky,  
 jak na mne křičí: ‚Zemřeš! Zemřeš taky!‘_
 
+</section>
+
+<section>
+
 _A pak jsem viděl v tom svém poblouznění  
 takové věci, že jsem se chvěl bázní;  
 zdálo se mi, jako bych někde stál  
@@ -65,6 +73,10 @@ hory se propadaly,
 a siný stín, jenž vyvstal opodál,  
 chraptivě řekl: ‚Nevíš, co se stalo?  
 Tvou krásnou paní si už nebe vzalo.‘_
+
+</section>
+
+<section>
 
 _A když jsem zvedl oči plné pláče,  
 viděl jsem anděly se vracet vzhůru  
@@ -81,6 +93,10 @@ přišly ji ženy zastřít závojem;
 a vypadala vám tak odevzdaně,  
 jako by říkala: ‚Jsem v míru Páně.‘_
 
+</section>
+
+<section>
+
 _A při pohledu na to odevzdání  
 jsem odevzdaně přivítal své strasti  
 a řekl: ,Smrti, teď tě budu ctít:  
@@ -95,3 +111,5 @@ a sotva osaměl jsem,
 vzhlédl jsem k výšinám, kde našla klid:  
 ‚Blažený, krásná duše, kdo tě vidí!‘  
 Vtom jsem se dík vám vrátil mezi lidi.“_
+
+</section>

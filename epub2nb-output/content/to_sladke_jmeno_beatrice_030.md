@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Ale ta nová služba způsobila, že mu jeho nejšlechetnější paní odepřela pozdrav; a tu v žalu napsal balatu, jak mu to poručil jeho pán a vládce Láska
+<section>
 
-  
+_Ale ta nová služba způsobila, že mu jeho nejšlechetnější paní odepřela pozdrav; a tu v žalu napsal balatu, jak mu to poručil jeho pán a vládce Láska_
+
+</section>
+
+<section>
 
 Má balato, jdi Lásku vyhledat  
 a předstup s ní, mým pánem, před mou paní,  
@@ -23,6 +27,10 @@ je zdá se mi teď na mne rozhněvaná,
 a kdybys před ní předstoupila sama,  
 mohla by spíš tě špatně přivítat._
 
+</section>
+
+<section>
+
 _Jakmile přijdeš se svou písní za ní,  
 popros ji o soucit  
 a potom pověz v sladkém rozechvění:  
@@ -33,6 +41,10 @@ Je zde i Láska, ta, co tolik mění
 tou vaší krásou zvenčí jeho rysy:  
 teď víte už, proč vzhlížel k jiné kdysi,  
 i když byl uvnitř stejný napořád.“_
+
+</section>
+
+<section>
 
 _A řekni: „Paní, jeho srdce bylo  
 tak věrné celý čas,  
@@ -45,6 +57,10 @@ s prosbou, ať vzkáže, abych umřel brzy,
 jestli ji snad to odpuštění mrzí,  
 a uvidí, že poslechnu, a rád._
 
+</section>
+
+<section>
+
 _A než zas půjdeš, řekni ještě Lásce,  
 jež má klíč k soustrasti  
 a jež to všechno paní nejlíp poví:  
@@ -55,3 +71,5 @@ a odpustí-li, jata tvými slovy,
 ať dá mu vlídnou tváří znát klid zbraní.“  
 A teď, má milá balato, jdi za ní,  
 jestli už chceš, a se ctí se mi vrať._
+
+</section>

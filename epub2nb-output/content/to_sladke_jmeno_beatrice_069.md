@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Svou vášnivostí, drsností a náročným tvarem to byly opravdu verše, jaké nebyly do té doby napsány
+<section>
 
-  
+_Svou vášnivostí, drsností a náročným tvarem to byly opravdu verše, jaké nebyly do té doby napsány_
+
+</section>
+
+<section>
 
 Lásko, vždyť vidíš, že ta krásná paní  
 nedbá tvé moci celý dlouhý čas,  
@@ -33,6 +37,10 @@ uchránil před tou, jež je jako kámen
 a jež mě žene — tím, že věčně mrazí —  
 v ústrety smrti, jež mě už už mrazí._
 
+</section>
+
+<section>
+
 _Lásko, ty víš, že třeskutými mrazy  
 se voda mění v křišťálový kámen,  
 že poblíž pólu, kde jsou stále mrazy,  
@@ -45,6 +53,10 @@ a myšlenka, jež krátí zde můj čas,
 se stále sráží v slzy, které mrazí  
 a kanou z očí tratících svou záři,  
 jimiž mne protkla tou svou krutou září._
+
+</section>
+
+<section>
 
 _Krása jí dává všechnu svoji záři  
 a krutost zase všechen chlad, jenž mrazí  
@@ -59,6 +71,10 @@ s tím, kdo jí touží, ať už v nebi září
 slunce či hvězdy, sloužit celý čas.  
 Jen proto toužím žít nějaký čas._
 
+</section>
+
+<section>
+
 _A proto, Sílo, starší než sám čas,  
 než pohyb a než světlo, které září,  
 měj se mnou soucit, zkrať ten těžký čas:  
@@ -72,9 +88,15 @@ zpod něhož povstanu, až přijde čas,
 kdy uvidím, zda někdy žila paní  
 tak spanilá jak tato hořká paní._
 
+</section>
+
+<section>
+
 _Má kancóno, mám v mysli krásnou paní,  
 jež ve mně budí, ač je jako kámen,  
 takový žár, že mne pak všichni mrazí;  
 a tak zde hořím přes všecky ty mrazy  
 touhou dát tobě nový tvar a záři,  
 jakou ti dosud nedal žádný čas._
+
+</section>

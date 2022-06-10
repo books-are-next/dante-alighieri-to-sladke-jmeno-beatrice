@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-A aby zakryl svůj pravý cit, předstíral lásku k jiné šlechetné paní; když však ta krásná záštita musila po čase odejít, sklíčilo ho to víc, než se nadál
+<section>
 
-  
+_A aby zakryl svůj pravý cit, předstíral lásku k jiné šlechetné paní; když však ta krásná záštita musila po čase odejít, sklíčilo ho to víc, než se nadál_
+
+</section>
+
+<section>
 
 Vy , co se cestou lásky ubíráte,  
 pohleďte, jestli znáte  
@@ -21,12 +25,22 @@ dávala prožít tolik sladkých chvil,
 šeptali zvědavostí:  
 „Čím si to všechno blaho zasloužil?“_
 
+</section>
+
+<section>
+
 _Teď jsem však ztratil jistotu a klid,  
 kterou mi dával poklad lásky stále:  
 zchudl jsem nenadále  
 tak, že se málem bojím promluvit._
 
+</section>
+
+<section>
+
 _A tak to tedy dělám jako ten,  
 kdo ze studu svou bídu raděj tají:  
 mé rty se usmívají,  
 zatímco srdce souží stesk a sten._
+
+</section>

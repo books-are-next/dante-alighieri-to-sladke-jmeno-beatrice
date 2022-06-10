@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Chybovaly vždy znovu: jednou byly příčinou vzdechů proto, že ne­viděly, jindy zas proto, že viděly
+<section>
 
-  
+_Chybovaly vždy znovu: jednou byly příčinou vzdechů proto, že ne­viděly, jindy zas proto, že viděly_
+
+</section>
+
+<section>
 
 Spatřil jsem jednou vínek,  
 pro který mě teď plní  
@@ -19,6 +23,10 @@ a tichým hlasem zpíval:
 „Kdo jednou lásku shlédne,  
 musí ji chválit všem.“_
 
+</section>
+
+<section>
+
 _Až jednou přijdu mezi lidi,  
 aby to milá uslyšela,  
 povím, že Fioreta teď nosí  
@@ -27,6 +35,10 @@ Jak by však nezpyšněla,
 když jí i sama Láska  
 dává svůj diadém._
 
+</section>
+
+<section>
+
 _Kdyby vám někdy někdo zpíval  
 tuto mou píseň, jak ji svila  
 hrstka mých nových slov a květů,  
@@ -34,3 +46,5 @@ přivítejte ji, moje milá,
 i když se přizdobila,  
 aby co nejlíp zněla,  
 tím starým nápěvem._
+
+</section>

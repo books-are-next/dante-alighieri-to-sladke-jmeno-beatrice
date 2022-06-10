@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Potom už nezbývalo než hledat útěchu v očích milované paní
+<section>
 
-  
+_Potom už nezbývalo než hledat útěchu v očích milované paní_
+
+</section>
+
+<section>
 
 Ten bůh, jejž máte v očích, moje paní,  
 a jenž tu zmůže každou moc svou mocí,  
@@ -25,3 +29,5 @@ vzpomínkou na ten sladký sad a kvítek,
 jenž věncem nových snítek  
 ovinul moji duši  
 dík laskavosti, která vám tak sluší.
+
+</section>

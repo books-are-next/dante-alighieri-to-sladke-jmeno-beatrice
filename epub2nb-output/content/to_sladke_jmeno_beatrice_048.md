@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Ale ta slova, byť sebeupřímnější, se mu zdála málo; i připojil k nim ještě dvě sloky kancóny
+<section>
 
-  
+_Ale ta slova, byť sebeupřímnější, se mu zdála málo; i připojil k nim ještě dvě sloky kancóny_
+
+</section>
+
+<section>
 
 Kdykoli, žel, mi něco připomene,  
 že nemám nikdy již  
@@ -34,3 +38,5 @@ jež v nebi plná jasu
 a záře Lásky zdraví archanděly  
 a při vší jejich moudrosti a ctnosti  
 je plní úžasem svou šlechetností._
+
+</section>

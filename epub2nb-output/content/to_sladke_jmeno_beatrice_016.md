@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-A odloučení bývalo vždy o to horší, že srdce mučila sveřepá paměť a vzpomínka na to, že mu jeho paní odepřela svůj pozdrav
+<section>
 
-  
+_A odloučení bývalo vždy o to horší, že srdce mučila sveřepá paměť a vzpomínka na to, že mu jeho paní odepřela svůj pozdrav_
+
+</section>
+
+<section>
 
 Sveřepá paměť, která pořád zírá  
 zpět do těch dob, jež minuly, má paní,  
@@ -35,6 +39,10 @@ si trochu více hledět jeho přání;
 vždyť i sám Tvůrce má víc lásky k těm,  
 kteří jsou tady jeho obrazem._
 
+</section>
+
+<section>
+
 _Jestli však chcete váhat ještě chvíli,  
 má naději, s tím, oč se srdce hlásí,  
 pak já už sotva mohu čekat dál.  
@@ -48,6 +56,10 @@ byť ho znal sebedéle:
 kdyby se přitom dočkal odmítnutí,  
 nic by ho nemohlo už ranit víc  
 a zahnat dřív a trpčí smrti vstříc._
+
+</section>
+
+<section>
 
 _A vy jste přece moje nejmilejší,  
 ta, jež mi může dávat nejvíc štěstí  
@@ -63,6 +75,10 @@ taková lidskost, že vám musím věřit;
 vždyť každý, kdo smí na vás popatřit,  
 pozná už z vnějšku, že je uvnitř cit._
 
+</section>
+
+<section>
+
 _Ať už se tedy ten váš pozdrav činí  
 a vejde do srdce, jež čeká stále,  
 šlechetná paní, jak už víte snad;  
@@ -77,6 +93,12 @@ nemohl prospět v boji, co mnou smýká,
 pokud by šel a nebyl provázen  
 posly té moci, jež mě vzala v plen._
 
+</section>
+
+<section>
+
 _Jdi, kancóno, tvá cesta bude krátká;  
 vždyť dobře víš, že než se naděješ,  
 může se stát to, proč tam vlastně jdeš._
+
+</section>

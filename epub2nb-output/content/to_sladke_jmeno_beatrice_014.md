@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Nejkrutější však byly vždy chvíle odjezdu a loučení
+<section>
 
-  
+_Nejkrutější však byly vždy chvíle odjezdu a loučení_
+
+</section>
+
+<section>
 
 Kéž vám bůh Lásky chtěl  
 poručit moje srdce, jež vám dal,  
@@ -21,3 +25,5 @@ I když však odjedu,
 budu vás v duchu vidět bez ustání:  
 a tak se tedy před tou cestou loučím  
 a srdce vám, má paní, odporoučím.
+
+</section>

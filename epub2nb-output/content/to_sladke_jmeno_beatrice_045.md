@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Když však chtěl napsat k její oslavě velkou kancónu, přervala ji po první sloce smrt
+<section>
 
-  
+_Když však chtěl napsat k její oslavě velkou kancónu, přervala ji po první sloce smrt_
+
+</section>
+
+<section>
 
 Takový čas mne Láska svírala  
 a přivykala žezlu ve své ruce,  
@@ -21,3 +25,5 @@ volají paní mou,
 aby mé blaho bylo ještě větší.  
 To se mi děje, kdykoli mě zří,  
 a není k víře, jak to utěší.
+
+</section>

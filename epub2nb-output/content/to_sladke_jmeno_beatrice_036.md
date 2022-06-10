@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Jednoho dne však cestou kolem jasné řeky začala jeho ústa hovořit sama od sebe
+<section>
 
-  
+_Jednoho dne však cestou kolem jasné řeky začala jeho ústa hovořit sama od sebe_
+
+</section>
+
+<section>
 
 Mé paní, vy, jež Lásce rozumíte,  
 chci pohovořit s vámi o své paní,  
@@ -51,6 +55,10 @@ a pokorně všem všechno odpustí.
 Leč její největší dar od Boha je,  
 že kdo s ní promluví, ten dojde ráje._
 
+</section>
+
+<section>
+
 _Láska se ptá: „Jak může smrtelnice  
 mít v sobě tolik čistoty a krásy?“  
 Pak na ni pohlédne a přísahá si,  
@@ -66,6 +74,10 @@ a pronikají do srdce kdo dřív:
 má tolik lásky vykresleno v tváři,  
 že žádný pohled nesnese tu záři._
 
+</section>
+
+<section>
+
 _Vím, kancóno, až teď z mých rukou vyjdeš,  
 navštívíš mnoho ušlechtilých paní;  
 a proto mysli na své vychování,  
@@ -80,3 +92,5 @@ jen ke dvornému muži nebo ženě
 a ti tě zavedou pak rovnou k ní.  
 U paní najdeš Lásku nepochybně:  
 popros ji místo mne, ať stojí při mně._
+
+</section>

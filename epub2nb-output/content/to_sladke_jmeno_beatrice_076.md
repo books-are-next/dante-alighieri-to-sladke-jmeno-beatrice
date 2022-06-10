@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
-Ale ani žádná slast, ani žádná strast mu nikdy nevzala víru ve vlastní pravdu, čest a cenu jeho díla; a v tom ho utvrdily i ty tři vyhnankyně, které jednou přišly navštívit jeho srdce
+<section>
 
-  
+_Ale ani žádná slast, ani žádná strast mu nikdy nevzala víru ve vlastní pravdu, čest a cenu jeho díla; a v tom ho utvrdily i ty tři vyhnankyně, které jednou přišly navštívit jeho srdce_
+
+</section>
+
+<section>
 
 Tři paní přišly navštívit mé srdce  
 a sedí kolem něho,  
@@ -45,6 +49,10 @@ já, ze všech nejsmutnější,
 jsem Spravedlnost, chudá, bědná, viz,  
 sestra té, jež tě porodila kdys.“_
 
+</section>
+
+<section>
+
 _Jen co to řekla, co se poznat dala,  
 udeřil mého pána  
 žal a stud jako rána  
@@ -63,6 +71,10 @@ a utírá se do svých plavých vlasů.
 Když se to moje robě  
 pak zhlíželo v tom jasném prameni,  
 zrodilo tu, jež stojí vedle ní.“_
+
+</section>
+
+<section>
 
 _Chvíli bůh Lásky mlčel rozechvělý;  
 pak se slzou v těch milých  
@@ -83,6 +95,10 @@ i když jsme štvanci posud,
 budem tu dál a jednou přijde čas,  
 jenž naší zbroji vrátí její jas.“_
 
+</section>
+
+<section>
+
 _A já, jak poslouchám ta božská slova  
 útěch i naříkání  
 těch zavržených paní,  
@@ -102,6 +118,10 @@ Zakusil jsem už dosti:
 měl-li jsem vinu, přešla tisíckrát,  
 přejde-li vina, když se začnem kát._
 
+</section>
+
+<section>
+
 _Kancóno, ať se nikdo nepokouší  
 odkrývat, co se pod tvým rouchem skrývá —  
 stačí, co nezakrývá;  
@@ -113,6 +133,10 @@ ukaž se v úplnosti,
 ať vidí vše: květ krásný na pohled  
 probudí touhu v každém, kdo jej zhléd._
 
+</section>
+
+<section>
+
 _Kancóno, leť k těm ptákům s bílým peřím,  
 kancóno, lov s tou smečkou černých chrtů,  
 i když já světem běžím,  
@@ -120,3 +144,5 @@ ač by mi měli přát už mír jak všem.
 Nechtějí tomu, nevědí, co jsem;  
 moudrý však milost z domu nevyhání:  
 zvítězit jí je nad vítězství zbraní._
+
+</section>

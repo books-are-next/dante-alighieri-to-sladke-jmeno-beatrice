@@ -3,6 +3,8 @@ title: DOSLOV
 contentType: prose
 ---
 
+<section>
+
 _Památce Josefa Lederera_
 
 Po všem, co se dělo za poslední světové války na bojištích, v zázemí, ale především v koncentračních a vyhlazovacích táborech, si Theodor Adorno položil otázku, je-li poezie nadále ještě možná. V podstatě tím jen do krajnosti vyhrotil v nové situaci starou stále se vracející otázku po smyslu a oprávněnosti té zvláštní činnosti, kterou je básnictví provázející člověka od nepaměti bez jakéhokoli viditelného, prokazatelného užitku. Tuto okolnost si německý filozof jistě uvědomoval; to hlavní však tehdy vědět nemohl: že jedna z nejzávažnějších odpovědí na jeho skeptickou otázku byla dána, ještě než ji vyslovil, a že se ta odpověď zrodila v místech, která se zdála – nepochybně i jemu samému – na první pohled nejpádnějším dokladem nicotnosti básnického slova tváří v tvář hrůzám našeho světa.
@@ -11,10 +13,22 @@ Tou odpovědí je jedna z kapitol knihy, která vznikla v Osvětimi, i když 
 
 Odysseus, kterého Levi připomíná, není ovšem ten zchytralý hrdina trojské války, jehož příběhy opěvuje Homér. Je to člověk faustovsky žíznící po poznání do té míry, že ke konci svého dlouhého bloudění Středozemím dá před návratem na Ithaku přednost výpravě na širý oceán, i když to pro něho i jeho druhy znamená posléze zkázu. Tak ho aspoň líčí v jednom z nejpůsobivějších zpěvů Pekla Dante Alighieri, na něhož přišla řeč, když Levi začal v Osvětimi svého mladého přítele a spoluvězně Alsasana Jeana učit italsky a při hledání vhodných příkladů si bůhvíproč vzpomněl právě na tuto pasáž z _Božské komedie_. Vybavoval si z ní v paměti pracně už jen zlomky, ale to nejdůležitější místo si pamatoval dobře. Je to těch několik veršů, v nichž Dantův Odysseus zve své druhy k plavbě za sluncem, do neznáma, „tam, kde už nejsou lidé“, a vyzývá je, aby pamatovali, kdo jsou a v čem je jejich důstojnost, protože
 
+</section>
+
+<section>
+
 _člověk tu není, aby žil jak zvíře,  
 leč aby hledal čest a poznání…_
 
+</section>
+
+<section>
+
 Když tenkrát Levi tyhle řádky Jeanovi odříkával, uvědomil si najednou, jakou netušenou moc může v sobě tajit poezie a jakou nečekanou posilou může být i v sebetěžší životní situaci básnické slovo. „Bylo to, jako bych to i já slyšel poprvé, jako zahřmění, jako hlas Boží. Na chvíli jsem zapomněl, kdo jsem a kde jsem.“
+
+</section>
+
+<section>
 
 Primo Levi však touto kapitolou neodpověděl jen Theodoru Adornovi. Odpověděl bezděčně také Voltairovi, který kdysi kdesi uštěpačně poznamenal, že sláva autora _Božské komedie_ se udrží navždy, protože jeho věštbám málokdo rozumí a nikdo jej nečte. Leviho svědectví ukazuje, že se Dante čte dodnes a že mu po více než šesti stoletích s úžasem porozuměli i vězňové poslaní na smrt do Osvětimi. Že přitom byli odkázáni jen na svou paměť a že jim v té paměti utkvělo vlastně jen to, co jim kdysi nabídly jejich čítanky, na věci celkem nic nemění. Význam velkých básníků minulosti, takových, jako byl právě Dante, nespočívá totiž jen v tom, kolik lidí s nimi dokáže navázat bezprostřední kontakt četbou jejich děl. Jejich trvalý význam, nebo přesněji jejich trvalá přítomnost mezi námi záleží také, ne-li především v tom, do jaké míry poznamenali na staletí naše myšlení a cítění, a to jak svými osobnostmi, které pro nás dnes představují jakousi galerii duchovních hrdinů, tak svými objevy, jejichž přínos, případně převratnost nejsme dnes už schopni rozpoznat, protože se staly obecným majetkem, a svou schopností přetvářet staré a vytvářet nové mýty, jejichž děje a postavy žijí v různých obměnách dodnes mezi námi, aniž si to uvědomujeme.
 
@@ -24,27 +38,51 @@ Dantova trvající přítomnost mezi námi se však neomezuje jen na tuto strán
 
 Patří k nim i řada spisovatelů naší doby, mimo jiné i Alain-Fournier, autor _Velkého Meaulnese,_ jedné z nejčtenějších francouzských knih tohoto století, známé u nás pod názvem _Kouzelné dobrodružství._ Kniha, debut, jehož námětem je další varianta dantovského setkání s láskou, vyšla roku 1913, několik měsíců před vypuknutím první světové války, v níž její autor za prvních bojů padl; a je jistě pozoru­hodné, že právě v té době dokončuje James Joyce v dobrovolném terstském exilu obdobnou knihu o mládí a že i on se v posledních odstavcích svého _Portrétu umělce v_ _jinošských letech_ odvolává na „osvěžující duševně hrdinný přístroj, vynalezený a patentovaný ve všech státech Dantem Alighierim“, to znamená _Nový život,_ pravzor tolika autobiografických debutů včetně jeho vlastního. A tak dál: vypočítávat další příklady tohoto druhu by znamenalo pouze obmě­ňovat, co už bylo řečeno.
 
+</section>
+
+<section>
+
 Četba Dantova díla, a to i jeho lyrických básní a _Nového života,_ zdánlivě nejpřístupnějších, není ovšem snadná záležitost. Není to dáno jen náročností básníka, který si předsevzal mluvit především k vyspělým čtenářům, a proto počítal s tím, „že bude málo takových, kteří pochopí“, oč mu jde, jak píše v jedné z kancón své _Hostiny,_ a odmítal vystavovat svou poezii na odiv komukoli, kdo se bez zásluhy, bez snahy o pochopení „vzpíná po sladkém plodu z jejího klína“, jak už víme z kancóny _Tři paní přišly navštívit mé srdce._ A není to dáno ani jen tím propastným rozdílem mezi jazykem a myšlením básníkovy doby a mluvou a myšlenkovým světem jeho dnešních čtenářů, jak se o tom zmiňuje v jednom článku Hermann Hesse. Snad ještě propastnější je rozdíl mezi tehdejším a dnešním každodenním životem, rozdíl, který dokládají nejen dobové kroniky, ale také a ještě názorněji fresky či deskové obrazy Giottovy, Ducciovy a dalších básníkových současníků. Pokud se nespokojíme jen s jejich celkovou krásou a věnujeme pozornost i jejich výmluvným detailům, tvářím, postojům, oblečení jejich postav, interiérům a exteriérům, do nichž jsou zasazeny, domáckým výjevům, mším, procesím, popravám, bitvám, slavnostem, v nichž vystupují mocnáři, válečníci i světci, zámožní měšťané, žebraví mniši i chudáci, muži, ženy i děti, pak máme možnost udělat si na vlastní oči představu o světě, ve kterém Dante žil, a o lidech, pro které psal.
 
 Ani tyto malby nejsou pochopitelně pouhou trpnou nápodobou tehdejší skutečnosti, ani jim nelze hlouběji porozumět bez výkladu, i v nich hrají svou úlohu dobová schémata, stylizace a fantazie; ale i tak jsou právě pro svou názornost možná tím nejlepším komentářem k Dantovu dílu. Ilustrují mimo jiné i tu zvláštní směs drsnosti a obřadnosti, jíž se vyznačoval tehdejší život a s níž se setkáváme i v Dantově tvorbě včetně jeho lyriky. O drsnosti dobových způsobů – a některých žánrů tehdejší poezie – svědčí mimo jiné básníkova tencóna s Foresem Donatim; takových veršovaných půtek, často ještě hrubšího zrna, podstoupil Dante nepochybně víc, než jich dnes čteme v jeho odkazu. Z některých se zachovaly jen výpady nebo protiútoky jeho protivníků; jedním z nich byl i sienský básník villonovského ražení Cecco Angiolieri, jehož řízná odpověď na Dantovy káravé verše stojí za připomínku, protože svým pošklebkem poněkud koriguje příliš jednostrannou podobu, v níž básník _Nového života_ utkvěl v obecném povědomí:
+
+</section>
+
+<section>
 
 _Jsem-li já, Dante, žvanil, jak jsi řek,  
 pak ty se můžeš se mnou směle měřit:  
 snídám-li s někým, tys tam na večeři,  
 saju-li morek, ty zas žereš špek;_
 
+</section>
+
+<section>
+
 _mám-li rád drby, ty rád klevetíš,  
 dělám-li šlechtu, ty se motáš s pány,  
 táhnu-li s Římem, ty jdeš s Lombarďany,  
 neznám-li míru, ty se nekrotíš!_
 
+</section>
+
+<section>
+
 _A tak si bohudík už ani chvíli  
 nemáme navzájem co předhazovat:  
 oba jsme prohráli a prohloupili!_
 
+</section>
+
+<section>
+
 _Kdybys však chtěl v těch řečech pokračovat,  
 hnal bych tě, Dante, až bys vydechnul:  
 protože jsem-li bodec, jsi ty vůl!_
+
+</section>
+
+<section>
 
 Převládajícím rysem Dantovy lyriky je ovšem její obřadnost, pro dnešního čtenáře zpočátku nezvyklá ne-li okázalá, a proto občas i odrazující. Nebyla jen dědictvím dvorské poezie provensálských trubadúrů, u kterých se i Dante skutečně učil. Byla také součástí obecné obřadnosti, okázalosti celého tehdejšího života, jak už o tom byla zmínka. Intimitu, soukromí v dnešním smyslu slova Dantova doba vlastně neznala. Život jedince se odehrával prakticky před očima ne-li celé obce, tedy přinejmenším celé čtvrti; obřadem byly nejen křtiny, svatby a pohřby, ale také porody a umírání, tolikrát zobrazované v dobové malbě.
 
@@ -54,10 +92,22 @@ Ani tato svazující obřadnost však nemohla potlačit opravdovost a originali
 
 Tato velká, dramatická poezie pulzuje i v sérii básní věnovaných neznámé ženě, která byla necitelná jako „krásný kámen“, „bella petra“, jak píše Dante v kancóně _Chci zrovna tak být drsný ve svém psaní,_ a proto se obecně označuje jako paní Petra. Přes všechny dobové konvence z nich prosvítá příliš živý cit, příliš prudká vášeň a místy dokonce smyslnost, než aby se daly vysvětlit jen jako plod Dantova formálního pokusnictví, jak se domnívají někteří vykladači. Spíš než co jiného to jsou možná volné variace na starozákonní motiv osudové lásky „silné jako smrt“ a vášně „nezlomné jako podsvětí“, jak toto známé místo _Písně písní_ překládá Václav Bogner. Takových lásek poznal Dante zřejmě víc; přicházely jako padající blesk, jak to napsal v jednom ze svých latinských dopisů, probíhaly málem jako součást kosmického dění, jak to líčí v kancóně _Dospěl jsem k tomu bodu zodiaku,_ a nepomáhala proti nim ani sebelepší vůle, jak to v kancóně _Mám-li si tedy, Lásko, naříkat_ shrnul v otázce,
 
+</section>
+
+<section>
+
 __co zmůže rozum svými úvahami  
 ve víru bouře, jíž jsem naplněn?__
 
+</section>
+
+<section>
+
 Byl to cit právě tak silný a právě tak oslyšený jako jeho touha po Florencii, po tom „nelaskavém domově“, který mu nepřestával tanout na mysli ani v dobách největších osobních zmatků. Guido Cavalcanti napsal v obdobné situaci svou nejkrásnější báseň, o níž už byla zmínka, balatu _Protože se už sotva někdy vrátím,_ a měl to štěstí, že mu bylo nakonec přece jen dopřáno zemřít doma. Na rozdíl od něho se Dante domů nikdy vrátit nesměl; mohl tam nanejvýš posílat své básně:
+
+</section>
+
+<section>
 
 __Kancóno, leť k těm ptákům s bílým peřím,  
 kancóno, lov s tou smečkou černých chrtů,  
@@ -67,13 +117,27 @@ Nechtějí tomu, nevědí, co jsem;
 moudrý však milost z domu nevyhání:  
 zvítězit jí je nad vítězství zbraní.__
 
+</section>
+
+<section>
+
 Toto „poslání“ kancóny _Tři paní přišly navštívit mé srdce,_ adresované předákům Bílých a Černých, kteří ve Florencii nepřestávali bojovat o moc, vyznívá sice smírně, ale také pevně, ba vzdorně. Dante se nikdy nesmířil s tou otevřenou ranou a palčivou křivdou, kterou byl pro něho exil. Přesto však, jak víme z jeho životopisu, několikrát odmítl nabízenou milost, která mu měla umožnit návrat, ale byla spojena s nedůstojnými podmínkami, a dal přednost svému hrdému vyhnanectví, protože
+
+</section>
+
+<section>
 
 __chce-li to nebe nebo los vždy znova,  
 aby svět lehkověrný  
 měnil květ bílý v černý,  
 pak padnout s dobrými je ke cti.__
 
+</section>
+
+<section>
+
 Toto je další motiv, který Dante rozvine v plné síle v _Božské komedii,_ na níž už v době vzniku těchto veršů pracoval. Ale i když jeho lyrika a básně z _Nového života_ obsahují zcela přirozeně celou řadu motivů a témat rodící se _Komedie,_ neznamená to, že by neobstály samy o sobě a neměly svou vlastní hodnotu. Podobně jako Shakespearovy _Sonety_ i Dantovy lyrické básně patří k významným dílům světové poezie, tak jak jsou, bez ohledu na to, co jejich básník napsal později.
 
 > _JAN VLADISLAV_
+
+</section>
