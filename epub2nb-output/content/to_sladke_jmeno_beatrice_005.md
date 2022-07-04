@@ -1,6 +1,6 @@
 ---
 title: I\.PRVNÍ BÁSNĚ
-contentType: prose
+contentType: poetry
 ---
 
 

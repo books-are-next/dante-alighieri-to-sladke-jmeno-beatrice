@@ -1,0 +1,1600 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "To sladké jméno Beatrice",
+  "author": "Dante Alighieri",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "alighieri-to-sladke-jmeno-beatrice-3ca84ec",
+  "revision": "3ca84ec",
+  "readingOrder": [
+    "promo.html",
+    "to_sladke_jmeno_beatrice_005.html",
+    "to_sladke_jmeno_beatrice_006.html",
+    "to_sladke_jmeno_beatrice_007.html",
+    "to_sladke_jmeno_beatrice_008.html",
+    "to_sladke_jmeno_beatrice_009.html",
+    "to_sladke_jmeno_beatrice_010.html",
+    "to_sladke_jmeno_beatrice_011.html",
+    "to_sladke_jmeno_beatrice_012.html",
+    "to_sladke_jmeno_beatrice_013.html",
+    "to_sladke_jmeno_beatrice_014.html",
+    "to_sladke_jmeno_beatrice_015.html",
+    "to_sladke_jmeno_beatrice_016.html",
+    "to_sladke_jmeno_beatrice_017.html",
+    "to_sladke_jmeno_beatrice_018.html",
+    "to_sladke_jmeno_beatrice_019.html",
+    "to_sladke_jmeno_beatrice_020.html",
+    "to_sladke_jmeno_beatrice_021.html",
+    "to_sladke_jmeno_beatrice_022.html",
+    "to_sladke_jmeno_beatrice_023.html",
+    "to_sladke_jmeno_beatrice_024.html",
+    "to_sladke_jmeno_beatrice_025.html",
+    "to_sladke_jmeno_beatrice_026.html",
+    "to_sladke_jmeno_beatrice_027.html",
+    "to_sladke_jmeno_beatrice_028.html",
+    "to_sladke_jmeno_beatrice_029.html",
+    "to_sladke_jmeno_beatrice_030.html",
+    "to_sladke_jmeno_beatrice_031.html",
+    "to_sladke_jmeno_beatrice_032.html",
+    "to_sladke_jmeno_beatrice_033.html",
+    "to_sladke_jmeno_beatrice_034.html",
+    "to_sladke_jmeno_beatrice_035.html",
+    "to_sladke_jmeno_beatrice_036.html",
+    "to_sladke_jmeno_beatrice_037.html",
+    "to_sladke_jmeno_beatrice_038.html",
+    "to_sladke_jmeno_beatrice_039.html",
+    "to_sladke_jmeno_beatrice_040.html",
+    "to_sladke_jmeno_beatrice_041.html",
+    "to_sladke_jmeno_beatrice_042.html",
+    "to_sladke_jmeno_beatrice_043.html",
+    "to_sladke_jmeno_beatrice_044.html",
+    "to_sladke_jmeno_beatrice_045.html",
+    "to_sladke_jmeno_beatrice_046.html",
+    "to_sladke_jmeno_beatrice_047.html",
+    "to_sladke_jmeno_beatrice_048.html",
+    "to_sladke_jmeno_beatrice_049.html",
+    "to_sladke_jmeno_beatrice_050.html",
+    "to_sladke_jmeno_beatrice_051.html",
+    "to_sladke_jmeno_beatrice_052.html",
+    "to_sladke_jmeno_beatrice_053.html",
+    "to_sladke_jmeno_beatrice_054.html",
+    "to_sladke_jmeno_beatrice_055.html",
+    "to_sladke_jmeno_beatrice_056.html",
+    "to_sladke_jmeno_beatrice_057.html",
+    "to_sladke_jmeno_beatrice_058.html",
+    "to_sladke_jmeno_beatrice_059.html",
+    "to_sladke_jmeno_beatrice_060.html",
+    "to_sladke_jmeno_beatrice_061.html",
+    "to_sladke_jmeno_beatrice_062.html",
+    "to_sladke_jmeno_beatrice_063.html",
+    "to_sladke_jmeno_beatrice_064.html",
+    "to_sladke_jmeno_beatrice_065.html",
+    "to_sladke_jmeno_beatrice_066.html",
+    "to_sladke_jmeno_beatrice_067.html",
+    "to_sladke_jmeno_beatrice_068.html",
+    "to_sladke_jmeno_beatrice_069.html",
+    "to_sladke_jmeno_beatrice_070.html",
+    "to_sladke_jmeno_beatrice_071.html",
+    "to_sladke_jmeno_beatrice_072.html",
+    "to_sladke_jmeno_beatrice_073.html",
+    "to_sladke_jmeno_beatrice_074.html",
+    "to_sladke_jmeno_beatrice_075.html",
+    "to_sladke_jmeno_beatrice_076.html",
+    "to_sladke_jmeno_beatrice_077.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 04 2022 12:54:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656939266124
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "to_sladke_jmeno_beatrice_005.html",
+      "toc": []
+    },
+    {
+      "title": "I.PRVNÍ BÁSNĚ",
+      "file": "to_sladke_jmeno_beatrice_005.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "to_sladke_jmeno_beatrice_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.PRVNÍ BÁSNĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_006.html",
+      "words": 126,
+      "chars": 656,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 2,
+      "prev": "to_sladke_jmeno_beatrice_005.html",
+      "next": "to_sladke_jmeno_beatrice_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_007.html",
+      "words": 105,
+      "chars": 570,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 3,
+      "prev": "to_sladke_jmeno_beatrice_006.html",
+      "next": "to_sladke_jmeno_beatrice_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_008.html",
+      "words": 94,
+      "chars": 514,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 4,
+      "prev": "to_sladke_jmeno_beatrice_007.html",
+      "next": "to_sladke_jmeno_beatrice_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_009.html",
+      "words": 107,
+      "chars": 578,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 5,
+      "prev": "to_sladke_jmeno_beatrice_008.html",
+      "next": "to_sladke_jmeno_beatrice_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_010.html",
+      "words": 127,
+      "chars": 699,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 6,
+      "prev": "to_sladke_jmeno_beatrice_009.html",
+      "next": "to_sladke_jmeno_beatrice_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_011.html",
+      "words": 105,
+      "chars": 542,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 7,
+      "prev": "to_sladke_jmeno_beatrice_010.html",
+      "next": "to_sladke_jmeno_beatrice_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_012.html",
+      "words": 104,
+      "chars": 531,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 8,
+      "prev": "to_sladke_jmeno_beatrice_011.html",
+      "next": "to_sladke_jmeno_beatrice_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_013.html",
+      "words": 74,
+      "chars": 389,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 9,
+      "prev": "to_sladke_jmeno_beatrice_012.html",
+      "next": "to_sladke_jmeno_beatrice_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_014.html",
+      "words": 91,
+      "chars": 455,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 10,
+      "prev": "to_sladke_jmeno_beatrice_013.html",
+      "next": "to_sladke_jmeno_beatrice_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_015.html",
+      "words": 118,
+      "chars": 602,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 11,
+      "prev": "to_sladke_jmeno_beatrice_014.html",
+      "next": "to_sladke_jmeno_beatrice_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_016.html",
+      "words": 478,
+      "chars": 2379,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 12,
+      "prev": "to_sladke_jmeno_beatrice_015.html",
+      "next": "to_sladke_jmeno_beatrice_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_017.html",
+      "words": 98,
+      "chars": 523,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 13,
+      "prev": "to_sladke_jmeno_beatrice_016.html",
+      "next": "to_sladke_jmeno_beatrice_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_018.html",
+      "words": 105,
+      "chars": 544,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 14,
+      "prev": "to_sladke_jmeno_beatrice_017.html",
+      "next": "to_sladke_jmeno_beatrice_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_019.html",
+      "words": 108,
+      "chars": 557,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 15,
+      "prev": "to_sladke_jmeno_beatrice_018.html",
+      "next": "to_sladke_jmeno_beatrice_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_020.html",
+      "words": 100,
+      "chars": 513,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 16,
+      "prev": "to_sladke_jmeno_beatrice_019.html",
+      "next": "to_sladke_jmeno_beatrice_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_021.html",
+      "words": 335,
+      "chars": 1647,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 17,
+      "prev": "to_sladke_jmeno_beatrice_020.html",
+      "next": "to_sladke_jmeno_beatrice_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_022.html",
+      "words": 109,
+      "chars": 532,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 18,
+      "prev": "to_sladke_jmeno_beatrice_021.html",
+      "next": "to_sladke_jmeno_beatrice_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II BÁSNĚZ NOVÉHO ŽIVOTA",
+      "file": "to_sladke_jmeno_beatrice_023.html",
+      "words": 4,
+      "chars": 23,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 19,
+      "prev": "to_sladke_jmeno_beatrice_022.html",
+      "next": "to_sladke_jmeno_beatrice_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II BÁSNĚZ NOVÉHO ŽIVOTA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_024.html",
+      "words": 367,
+      "chars": 2111,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 20,
+      "prev": "to_sladke_jmeno_beatrice_023.html",
+      "next": "to_sladke_jmeno_beatrice_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_025.html",
+      "words": 110,
+      "chars": 575,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 21,
+      "prev": "to_sladke_jmeno_beatrice_024.html",
+      "next": "to_sladke_jmeno_beatrice_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_026.html",
+      "words": 144,
+      "chars": 762,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 22,
+      "prev": "to_sladke_jmeno_beatrice_025.html",
+      "next": "to_sladke_jmeno_beatrice_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_027.html",
+      "words": 112,
+      "chars": 583,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 23,
+      "prev": "to_sladke_jmeno_beatrice_026.html",
+      "next": "to_sladke_jmeno_beatrice_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_028.html",
+      "words": 129,
+      "chars": 675,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 24,
+      "prev": "to_sladke_jmeno_beatrice_027.html",
+      "next": "to_sladke_jmeno_beatrice_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_029.html",
+      "words": 123,
+      "chars": 617,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 25,
+      "prev": "to_sladke_jmeno_beatrice_028.html",
+      "next": "to_sladke_jmeno_beatrice_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_030.html",
+      "words": 303,
+      "chars": 1548,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 26,
+      "prev": "to_sladke_jmeno_beatrice_029.html",
+      "next": "to_sladke_jmeno_beatrice_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_031.html",
+      "words": 104,
+      "chars": 563,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 27,
+      "prev": "to_sladke_jmeno_beatrice_030.html",
+      "next": "to_sladke_jmeno_beatrice_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_032.html",
+      "words": 102,
+      "chars": 539,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 28,
+      "prev": "to_sladke_jmeno_beatrice_031.html",
+      "next": "to_sladke_jmeno_beatrice_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_033.html",
+      "words": 101,
+      "chars": 519,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 29,
+      "prev": "to_sladke_jmeno_beatrice_032.html",
+      "next": "to_sladke_jmeno_beatrice_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_034.html",
+      "words": 105,
+      "chars": 524,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 30,
+      "prev": "to_sladke_jmeno_beatrice_033.html",
+      "next": "to_sladke_jmeno_beatrice_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_035.html",
+      "words": 408,
+      "chars": 2231,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 31,
+      "prev": "to_sladke_jmeno_beatrice_034.html",
+      "next": "to_sladke_jmeno_beatrice_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_036.html",
+      "words": 454,
+      "chars": 2405,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 32,
+      "prev": "to_sladke_jmeno_beatrice_035.html",
+      "next": "to_sladke_jmeno_beatrice_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_037.html",
+      "words": 110,
+      "chars": 559,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 33,
+      "prev": "to_sladke_jmeno_beatrice_036.html",
+      "next": "to_sladke_jmeno_beatrice_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_038.html",
+      "words": 110,
+      "chars": 583,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 34,
+      "prev": "to_sladke_jmeno_beatrice_037.html",
+      "next": "to_sladke_jmeno_beatrice_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_039.html",
+      "words": 111,
+      "chars": 569,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 35,
+      "prev": "to_sladke_jmeno_beatrice_038.html",
+      "next": "to_sladke_jmeno_beatrice_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_040.html",
+      "words": 97,
+      "chars": 488,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 36,
+      "prev": "to_sladke_jmeno_beatrice_039.html",
+      "next": "to_sladke_jmeno_beatrice_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_041.html",
+      "words": 538,
+      "chars": 2805,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 37,
+      "prev": "to_sladke_jmeno_beatrice_040.html",
+      "next": "to_sladke_jmeno_beatrice_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_042.html",
+      "words": 127,
+      "chars": 647,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 38,
+      "prev": "to_sladke_jmeno_beatrice_041.html",
+      "next": "to_sladke_jmeno_beatrice_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_043.html",
+      "words": 104,
+      "chars": 545,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 39,
+      "prev": "to_sladke_jmeno_beatrice_042.html",
+      "next": "to_sladke_jmeno_beatrice_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_044.html",
+      "words": 102,
+      "chars": 539,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 40,
+      "prev": "to_sladke_jmeno_beatrice_043.html",
+      "next": "to_sladke_jmeno_beatrice_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_045.html",
+      "words": 99,
+      "chars": 506,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 41,
+      "prev": "to_sladke_jmeno_beatrice_044.html",
+      "next": "to_sladke_jmeno_beatrice_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_046.html",
+      "words": 467,
+      "chars": 2438,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 42,
+      "prev": "to_sladke_jmeno_beatrice_045.html",
+      "next": "to_sladke_jmeno_beatrice_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_047.html",
+      "words": 115,
+      "chars": 585,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 43,
+      "prev": "to_sladke_jmeno_beatrice_046.html",
+      "next": "to_sladke_jmeno_beatrice_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_048.html",
+      "words": 162,
+      "chars": 878,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 44,
+      "prev": "to_sladke_jmeno_beatrice_047.html",
+      "next": "to_sladke_jmeno_beatrice_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_049.html",
+      "words": 142,
+      "chars": 740,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 45,
+      "prev": "to_sladke_jmeno_beatrice_048.html",
+      "next": "to_sladke_jmeno_beatrice_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_050.html",
+      "words": 112,
+      "chars": 560,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 46,
+      "prev": "to_sladke_jmeno_beatrice_049.html",
+      "next": "to_sladke_jmeno_beatrice_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_051.html",
+      "words": 100,
+      "chars": 555,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 47,
+      "prev": "to_sladke_jmeno_beatrice_050.html",
+      "next": "to_sladke_jmeno_beatrice_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_052.html",
+      "words": 100,
+      "chars": 539,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 48,
+      "prev": "to_sladke_jmeno_beatrice_051.html",
+      "next": "to_sladke_jmeno_beatrice_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_053.html",
+      "words": 101,
+      "chars": 524,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 49,
+      "prev": "to_sladke_jmeno_beatrice_052.html",
+      "next": "to_sladke_jmeno_beatrice_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_054.html",
+      "words": 180,
+      "chars": 1011,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 50,
+      "prev": "to_sladke_jmeno_beatrice_053.html",
+      "next": "to_sladke_jmeno_beatrice_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_055.html",
+      "words": 116,
+      "chars": 567,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 51,
+      "prev": "to_sladke_jmeno_beatrice_054.html",
+      "next": "to_sladke_jmeno_beatrice_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_056.html",
+      "words": 105,
+      "chars": 559,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 52,
+      "prev": "to_sladke_jmeno_beatrice_055.html",
+      "next": "to_sladke_jmeno_beatrice_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_057.html",
+      "words": 120,
+      "chars": 598,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 53,
+      "prev": "to_sladke_jmeno_beatrice_056.html",
+      "next": "to_sladke_jmeno_beatrice_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_058.html",
+      "words": 92,
+      "chars": 503,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 54,
+      "prev": "to_sladke_jmeno_beatrice_057.html",
+      "next": "to_sladke_jmeno_beatrice_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III.DALŠÍ BÁSNĚ",
+      "file": "to_sladke_jmeno_beatrice_059.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 55,
+      "prev": "to_sladke_jmeno_beatrice_058.html",
+      "next": "to_sladke_jmeno_beatrice_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.DALŠÍ BÁSNĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_060.html",
+      "words": 120,
+      "chars": 611,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 56,
+      "prev": "to_sladke_jmeno_beatrice_059.html",
+      "next": "to_sladke_jmeno_beatrice_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_061.html",
+      "words": 104,
+      "chars": 558,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 57,
+      "prev": "to_sladke_jmeno_beatrice_060.html",
+      "next": "to_sladke_jmeno_beatrice_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_062.html",
+      "words": 108,
+      "chars": 581,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 58,
+      "prev": "to_sladke_jmeno_beatrice_061.html",
+      "next": "to_sladke_jmeno_beatrice_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_063.html",
+      "words": 116,
+      "chars": 601,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 59,
+      "prev": "to_sladke_jmeno_beatrice_062.html",
+      "next": "to_sladke_jmeno_beatrice_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_064.html",
+      "words": 110,
+      "chars": 573,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 60,
+      "prev": "to_sladke_jmeno_beatrice_063.html",
+      "next": "to_sladke_jmeno_beatrice_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_065.html",
+      "words": 110,
+      "chars": 555,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 61,
+      "prev": "to_sladke_jmeno_beatrice_064.html",
+      "next": "to_sladke_jmeno_beatrice_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_066.html",
+      "words": 548,
+      "chars": 2715,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 62,
+      "prev": "to_sladke_jmeno_beatrice_065.html",
+      "next": "to_sladke_jmeno_beatrice_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_067.html",
+      "words": 281,
+      "chars": 1440,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 63,
+      "prev": "to_sladke_jmeno_beatrice_066.html",
+      "next": "to_sladke_jmeno_beatrice_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_068.html",
+      "words": 488,
+      "chars": 2508,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 64,
+      "prev": "to_sladke_jmeno_beatrice_067.html",
+      "next": "to_sladke_jmeno_beatrice_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_069.html",
+      "words": 484,
+      "chars": 2392,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 65,
+      "prev": "to_sladke_jmeno_beatrice_068.html",
+      "next": "to_sladke_jmeno_beatrice_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_070.html",
+      "words": 120,
+      "chars": 643,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 66,
+      "prev": "to_sladke_jmeno_beatrice_069.html",
+      "next": "to_sladke_jmeno_beatrice_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_071.html",
+      "words": 115,
+      "chars": 591,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 67,
+      "prev": "to_sladke_jmeno_beatrice_070.html",
+      "next": "to_sladke_jmeno_beatrice_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_072.html",
+      "words": 108,
+      "chars": 587,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 68,
+      "prev": "to_sladke_jmeno_beatrice_071.html",
+      "next": "to_sladke_jmeno_beatrice_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_073.html",
+      "words": 115,
+      "chars": 568,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 69,
+      "prev": "to_sladke_jmeno_beatrice_072.html",
+      "next": "to_sladke_jmeno_beatrice_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_074.html",
+      "words": 113,
+      "chars": 585,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 70,
+      "prev": "to_sladke_jmeno_beatrice_073.html",
+      "next": "to_sladke_jmeno_beatrice_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_075.html",
+      "words": 550,
+      "chars": 2765,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 71,
+      "prev": "to_sladke_jmeno_beatrice_074.html",
+      "next": "to_sladke_jmeno_beatrice_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To sladké jméno Beatrice",
+      "file": "to_sladke_jmeno_beatrice_076.html",
+      "words": 660,
+      "chars": 3385,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 72,
+      "prev": "to_sladke_jmeno_beatrice_075.html",
+      "next": "to_sladke_jmeno_beatrice_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOSLOV",
+      "file": "to_sladke_jmeno_beatrice_077.html",
+      "words": 2871,
+      "chars": 18036,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 73,
+      "prev": "to_sladke_jmeno_beatrice_076.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOSLOV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 140,
+      "chars": 908,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "to_sladke_jmeno_beatrice_077.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 15533,
+      "chars": 83882,
+      "ideas": 1771
+    },
+    "chapters": {
+      "words": 15385,
+      "chars": 82926,
+      "ideas": 1751
+    }
+  }
+}

@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: To sladké jméno Beatrice
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Dante Alighieri
   publisher: Městská knihovna v Praze
   modified: '2021-01-25T00:00:00.000Z'
+  edition: poezie
+  publisherShort: mkp
+  contentType: poetry
 readingOrder:
   - promo.html
-  - to_sladke_jmeno_beatrice_001.html
-  - to_sladke_jmeno_beatrice_002.html
-  - to_sladke_jmeno_beatrice_003.html
-  - to_sladke_jmeno_beatrice_004.html
   - to_sladke_jmeno_beatrice_005.html
   - to_sladke_jmeno_beatrice_006.html
   - to_sladke_jmeno_beatrice_007.html
@@ -88,11 +88,24 @@ readingOrder:
   - to_sladke_jmeno_beatrice_075.html
   - to_sladke_jmeno_beatrice_076.html
   - to_sladke_jmeno_beatrice_077.html
-  - to_sladke_jmeno_beatrice_078.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: to_sladke_jmeno_beatrice_005.html
+        title: I. První básně
+        hiddenTitle: false
+      - link: to_sladke_jmeno_beatrice_023.html
+        title: II. Básně z nového života
+        hiddenTitle: false
+      - link: to_sladke_jmeno_beatrice_059.html
+        title: III. Další básně
+        hiddenTitle: false
+      - link: to_sladke_jmeno_beatrice_077.html
+        title: Doslov
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -100,5 +113,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---
