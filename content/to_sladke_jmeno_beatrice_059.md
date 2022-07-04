@@ -1,6 +1,6 @@
 ---
 title: III\.DALŠÍ BÁSNĚ
-contentType: prose
+contentType: poetry
 ---
 
 
