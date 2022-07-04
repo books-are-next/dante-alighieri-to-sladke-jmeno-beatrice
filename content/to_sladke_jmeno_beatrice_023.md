@@ -1,5 +1,5 @@
 ---
-title: "II BÁSNĚZ\_NOVÉHO ŽIVOTA"
+title: "II. BÁSNĚ Z\_NOVÉHO ŽIVOTA"
 contentType: poetry
 ---
 
