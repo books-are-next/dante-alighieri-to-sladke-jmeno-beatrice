@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "alighieri-to-sladke-jmeno-beatrice-65b72b9",
-  "revision": "65b72b9",
+  "identifier": "alighieri-to-sladke-jmeno-beatrice-a867a9e",
+  "revision": "a867a9e",
   "readingOrder": [
     "promo.html",
     "to_sladke_jmeno_beatrice_005.html",
@@ -85,11 +85,11 @@
     "to_sladke_jmeno_beatrice_075.html",
     "to_sladke_jmeno_beatrice_076.html",
     "to_sladke_jmeno_beatrice_077.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 04 2022 13:19:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656940792699
+    "date": "Thu Jul 07 2022 08:19:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181991346
   },
   "documents": [
     {
@@ -1553,7 +1553,7 @@
       "role": "chapter",
       "order": 73,
       "prev": "to_sladke_jmeno_beatrice_076.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1566,11 +1566,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 140,
       "chars": 908,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "to_sladke_jmeno_beatrice_077.html",
       "next": null,
