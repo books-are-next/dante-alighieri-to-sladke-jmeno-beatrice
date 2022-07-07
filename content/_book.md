@@ -88,7 +88,7 @@ readingOrder:
   - to_sladke_jmeno_beatrice_075.html
   - to_sladke_jmeno_beatrice_076.html
   - to_sladke_jmeno_beatrice_077.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
