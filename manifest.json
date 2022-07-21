@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "alighieri-to-sladke-jmeno-beatrice-71749fb",
-  "revision": "71749fb",
+  "identifier": "alighieri-to-sladke-jmeno-beatrice-99a89ff",
+  "revision": "99a89ff",
   "readingOrder": [
     "promo.html",
     "to_sladke_jmeno_beatrice_005.html",
@@ -88,8 +88,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:52:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187524029
+    "date": "Thu Jul 21 2022 14:46:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414808094
   },
   "documents": [
     {
@@ -1568,7 +1568,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 908,
+      "chars": 909,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1588,7 +1588,7 @@
   "totals": {
     "all": {
       "words": 15533,
-      "chars": 83882,
+      "chars": 83883,
       "ideas": 1771
     },
     "chapters": {
