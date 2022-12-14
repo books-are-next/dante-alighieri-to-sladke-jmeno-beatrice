@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -1535,6 +1536,6 @@
       "user": "books-are-next",
       "repo": "dante-alighieri-to-sladke-jmeno-beatrice"
     },
-    "generatedAt": 1656939936464
+    "generatedAt": 1666350742683
   }
 }
