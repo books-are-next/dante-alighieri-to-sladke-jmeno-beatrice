@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "alighieri-to-sladke-jmeno-beatrice-87fb58d",
-  "revision": "87fb58d",
+  "identifier": "alighieri-to-sladke-jmeno-beatrice-21a3673",
+  "revision": "21a3673",
   "readingOrder": [
     "promo.html",
     "to_sladke_jmeno_beatrice_005.html",
@@ -88,8 +88,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Dec 14 2022 20:40:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1671050409234
+    "date": "Wed Dec 14 2022 20:44:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1671050661156
   },
   "documents": [
     {
@@ -465,10 +465,10 @@
       ]
     },
     {
-      "title": "II BÁSNĚZ NOVÉHO ŽIVOTA",
+      "title": "II BÁSNĚ Z NOVÉHO ŽIVOTA",
       "file": "to_sladke_jmeno_beatrice_023.html",
-      "words": 4,
-      "chars": 23,
+      "words": 5,
+      "chars": 24,
       "ideas": 1,
       "role": "chapter",
       "order": 19,
@@ -478,7 +478,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "II BÁSNĚZ NOVÉHO ŽIVOTA",
+          "name": "II BÁSNĚ Z NOVÉHO ŽIVOTA",
           "id": null,
           "children": []
         }
@@ -1587,13 +1587,13 @@
   ],
   "totals": {
     "all": {
-      "words": 15531,
-      "chars": 83884,
+      "words": 15532,
+      "chars": 83885,
       "ideas": 1769
     },
     "chapters": {
-      "words": 15385,
-      "chars": 82926,
+      "words": 15386,
+      "chars": 82927,
       "ideas": 1751
     }
   }
