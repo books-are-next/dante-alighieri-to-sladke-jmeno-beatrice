@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "alighieri-to-sladke-jmeno-beatrice-21a3673",
-  "revision": "21a3673",
+  "identifier": "alighieri-to-sladke-jmeno-beatrice-5268a24",
+  "revision": "5268a24",
   "readingOrder": [
     "promo.html",
     "to_sladke_jmeno_beatrice_005.html",
@@ -88,8 +88,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Dec 14 2022 20:44:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1671050661156
+    "date": "Wed Dec 14 2022 20:58:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1671051518142
   },
   "documents": [
     {
@@ -1547,9 +1547,9 @@
     {
       "title": "DOSLOV",
       "file": "to_sladke_jmeno_beatrice_077.html",
-      "words": 2871,
-      "chars": 18036,
-      "ideas": 49,
+      "words": 2873,
+      "chars": 18032,
+      "ideas": 50,
       "role": "chapter",
       "order": 73,
       "prev": "to_sladke_jmeno_beatrice_076.html",
@@ -1587,14 +1587,14 @@
   ],
   "totals": {
     "all": {
-      "words": 15532,
-      "chars": 83885,
-      "ideas": 1769
+      "words": 15534,
+      "chars": 83881,
+      "ideas": 1770
     },
     "chapters": {
-      "words": 15386,
-      "chars": 82927,
-      "ideas": 1751
+      "words": 15388,
+      "chars": 82923,
+      "ideas": 1752
     }
   }
 }
